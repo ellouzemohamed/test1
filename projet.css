@@ -1,0 +1,129 @@
+body 
+{
+    margin: 10px 0 ;
+    padding: 0 ;
+    font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+    background: rgb(207, 255, 162) ;
+    
+   
+
+}
+h1 {
+font-weight: bold;
+color: green;
+font-size: 50px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+text-transform: uppercase;
+font-family: roboto;
+text-decoration: underline;
+position: relative;
+
+}
+h2 {
+    color: black;
+    font-style: italic;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+}
+.title {
+    color:violet;
+    font-size: 30px;
+    border-left-width: 20;
+}
+    .box {
+       padding-left: 50px;
+       padding-right: 50px;
+       padding-bottom: 50px;
+       padding-top: 50px;
+       background-color:white;
+       border-bottom-left-radius: 40px 40px;
+       border-bottom-right-radius: 40px 40px;
+       border-top-left-radius: 40px 40px;
+       border-top-right-radius: 40px 40px;
+
+      }
+      .text
+    {
+        text-align: center;
+        font-size: 30px;
+        color: olive;
+    }
+    div > p 
+    {
+      font-size: 20px;
+      font-style: italic;
+      font-family: sans-serif;
+      
+    }
+     .textcolor  
+       { 
+          
+	margin-left: 30px ;
+	padding-left: 10px ;
+	border-bottom: 1px solid darkgray ;
+	border-left: 3px solid darkgray ;
+    color: gray;
+    font-size: 30px;
+          }
+    .padding {
+        padding-bottom: 20px;
+        padding-top: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        border-style:solid;
+        }
+    th {
+        background-color: olivedrab;
+    }    
+    td {
+        background-color: green;
+    }
+
+    .textcolor1 {
+        margin: 40 auto;
+        margin-left: 40px;
+        background-color: white;
+        width: 600px; 
+        height: 100px;
+        padding: 10px;
+  }
+   .textcolor2 {
+        background-color: teal;
+    }
+    #box {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+        padding-top: 30px;
+        background-color:white ;
+        border-bottom-left-radius: 20px 20px;
+        border-bottom-right-radius: 20px 20px;
+        border-top-left-radius: 20px 20px;
+        border-top-right-radius: 20px 20px;
+   
+    }
+.textcolor3  {
+    font-weight: bold;
+    font-size: 18px;
+}
+footer {
+    font-weight: bold;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+}
+a:link {
+    background-color: powderblue;
+}
+a: :hover {
+    background-color: gold;
+}
+.textcolor4 {
+    color:red;
+    font-weight: bold;
+    font-size: medium; 
+}
